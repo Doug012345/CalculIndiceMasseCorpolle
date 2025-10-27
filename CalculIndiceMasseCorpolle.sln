@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculIndiceMasseCorpolle", "CalculIndiceMasseCorpolle\CalculIndiceMasseCorpolle.csproj", "{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54ECF62-F16D-40A7-AF28-0F99C1279B40}
+	EndGlobalSection
+EndGlobal

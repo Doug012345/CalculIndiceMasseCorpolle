@@ -1,0 +1,6 @@
+@CalculIndiceMasseCorpolle_HostAddress = http://localhost:5101
+
+GET {{CalculIndiceMasseCorpolle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
