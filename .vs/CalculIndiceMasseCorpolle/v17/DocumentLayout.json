@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\controllers\\imccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\services\\imcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\services\\imcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|c:\\users\\acer\\source\\repos\\calculindicemassecorpolle\\calculindicemassecorpolle\\services\\iimcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2960CF6-5572-450E-9D7D-1DAA0AF4BDD1}|CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle.csproj|solutionrelative:calculindicemassecorpolle\\services\\iimcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 401,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 162,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IMCController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:26:24.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\appsettings.Production.json",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T22:51:43.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Program.cs",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Program.cs",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\Program.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAAwNIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:31:57.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\appsettings.Development.json",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T22:50:15.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMCService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Services\\IMCService.cs",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\Services\\IMCService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Services\\IMCService.cs",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\Services\\IMCService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:16:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\appsettings.json",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T22:36:04.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IIMCService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Services\\IIMCService.cs",
+              "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\Services\\IIMCService.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Services\\IIMCService.cs",
+              "RelativeToolTip": "CalculIndiceMasseCorpolle\\Services\\IIMCService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T22:16:58.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

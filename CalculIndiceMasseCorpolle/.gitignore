@@ -1,0 +1,19 @@
+﻿# Fichiers de build
+bin/
+obj/
+Debug/
+Release/
+
+# Dossiers temporaires
+*.tmp
+*.log
+
+# Fichiers utilisateurs
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fichiers système
+.DS_Store
+Thumbs.db
