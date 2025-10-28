@@ -68,7 +68,7 @@
         },
         {
           "DockedHeight": 162,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +83,10 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IMCController.cs",
@@ -90,7 +94,7 @@
               "RelativeDocumentMoniker": "CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
               "ToolTip": "C:\\Users\\acer\\source\\repos\\CalculIndiceMasseCorpolle\\CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\Controllers\\IMCController.cs",
-              "ViewState": "AgIAALAAAAAAAAAAAAAswFoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T23:26:24.228Z",
               "EditorCaption": ""
@@ -105,8 +109,7 @@
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\appsettings.Production.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-27T22:51:43.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T22:51:43.476Z"
             },
             {
               "$type": "Document",
@@ -118,8 +121,7 @@
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\Program.cs",
               "ViewState": "AgIAANAAAAAAAAAAAAAAwNIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T22:31:57.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T22:31:57.345Z"
             },
             {
               "$type": "Document",
@@ -131,8 +133,7 @@
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-27T22:50:15.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T22:50:15.972Z"
             },
             {
               "$type": "Document",
@@ -144,8 +145,7 @@
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\Services\\IMCService.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T22:16:52.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T22:16:52.036Z"
             },
             {
               "$type": "Document",
@@ -157,8 +157,7 @@
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-27T22:36:04.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T22:36:04.023Z"
             },
             {
               "$type": "Document",
@@ -170,8 +169,7 @@
               "RelativeToolTip": "CalculIndiceMasseCorpolle\\Services\\IIMCService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T22:16:58.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T22:16:58.23Z"
             }
           ]
         }
